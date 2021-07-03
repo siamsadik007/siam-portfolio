@@ -39,3 +39,22 @@ body{
    .sec2margin{
        margin-top: 100px;
    }
+   .banner2{
+       background-image: url(dream-bg.png);
+       background-repeat: no-repeat;
+       background-position: right;
+       margin-left: 5%;
+   }
+   .dreammrg{
+       margin-right: 5%;
+   }
+   .half-width2{
+    width: 40%;
+    padding-left: 3%;
+    }
+
+    .half-width2 img{
+        width: 90%;
+        padding-right: 17%;
+        margin-top: 5%;
+    }
